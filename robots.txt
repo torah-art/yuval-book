@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://torah-art.github.io/yuval-book/sitemap.xml
